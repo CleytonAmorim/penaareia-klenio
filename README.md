@@ -1,5 +1,4 @@
-
-
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -63,7 +62,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="logo.png" alt="GC Soluções Logo" class="logo">
+        <img src="G.png" alt="GC Soluções Logo" class="logo">
         <h1>Orçamento de Serviços – GC Soluções</h1>
     </div>
     
