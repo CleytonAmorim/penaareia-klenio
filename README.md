@@ -1,4 +1,5 @@
 
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +12,7 @@
             padding: 0;
             text-align: center;
             background-color: #add8e6; /* Azul claro */
-            background-image: url('beach.png'); /* Imagem de referência ao Beach Tênis */
+            background-image: url('beach.jpg'); /* Imagem de referência ao Beach Tênis */
             background-size: cover;
             background-position: center;
         }
@@ -62,7 +63,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="G.png" alt="GC Soluções Logo" class="logo">
+        <img src="logo.png" alt="GC Soluções Logo" class="logo">
         <h1>Orçamento de Serviços – GC Soluções</h1>
     </div>
     
