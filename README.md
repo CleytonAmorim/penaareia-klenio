@@ -1,5 +1,3 @@
-# penaareia-klenio
-Klenio
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -12,7 +10,10 @@ Klenio
             margin: 0;
             padding: 0;
             text-align: center;
-            background-color: #f4f4f4;
+            background-color: #add8e6; /* Azul claro */
+            background-image: url('beach-tennis-background.jpg'); /* Imagem de referência ao Beach Tênis */
+            background-size: cover;
+            background-position: center;
         }
         .header {
             background-color: #0077b6;
@@ -25,6 +26,8 @@ Klenio
             width: 90%;
             margin: auto;
             padding: 20px;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
         }
         .package, .service {
             background: white;
