@@ -107,9 +107,9 @@
         <div class="package">
             <h3>🚁 Opção 2 – Com Drone</h3>
             <ul>
-                <li>Básico – R$ 90 por vídeo | R$ 1.080 total</li>
-                <li>Intermediário – R$ 120 por vídeo | R$ 1.440 total</li>
-                <li>Premium – R$ 150 por vídeo | R$ 1.800 total</li>
+                <li>Básico – R$ 240 por vídeo | R$ 2.880 total</li>
+                <li>Intermediário – R$ 280 por vídeo | R$ 3.360 total</li>
+                <li>Premium – R$ 300 por vídeo | R$ 3.600 total</li>
             </ul>
         </div>
     </div>
