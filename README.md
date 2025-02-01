@@ -11,7 +11,7 @@
             padding: 0;
             text-align: center;
             background-color: #add8e6; /* Azul claro */
-            background-image: url('beach-tennis-background.jpg'); /* Imagem de referência ao Beach Tênis */
+            background-image: url('beach.png'); /* Imagem de referência ao Beach Tênis */
             background-size: cover;
             background-position: center;
         }
